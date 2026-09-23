@@ -26,7 +26,7 @@ GitHub 自动生成的 `Source code` 压缩包不是客户端安装包。历史�
 
 ## English
 
-This repository distributes the Windows client for gallery, including installers, release notes and checksum files. Visit the [gallery website](https://galgallery.github.io/en/) for product information and download links.
+This repository distributes the Windows client for gallery, including installers, release notes and checksum files. Visit the [gallery website](https://galgallery.github.io/?lang=en) for product information and download links.
 
 ### Download and install
 
